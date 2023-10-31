@@ -15,7 +15,7 @@ Mgit clona il repository nella cartella in: /Android/data/com.manichord.mgit/fil
 
 A quanto sembra, su MGit il fetch su un repository non capisco che effetto abbia, non si vede nulla, ma fare il pull mostra che funziona.
 
-Combinare tutto in uno su terminale MacOS (dopo il primo commit, che presumibilmente avrà un messaggio diverso, specifcio, di inizio):
+Combinare tutto in uno su terminale MacOS (dopo il primo commit, che presumibilmente avrà un messaggio diverso, specifcio, di inizio), e magari metterci anche il `cd` iniziale al repository:
 
 ```
 git add . && git commit -a -S -m "Edits." && git push -u origin Trunk
