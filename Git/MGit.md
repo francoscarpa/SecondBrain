@@ -1,22 +1,25 @@
-Per le limitazione che Git ha su Android, devo agire.
-Non uso Termux, valida alternativa. Cercavo un client GUI.
-Ho scelto [MGit](https://f-droid.org/en/packages/com.manichord.mgit/), da F-Droid.
-Su GitHub creare un personal access token (classic):
+[MGit](https://github.com/maks/MGit) è un *client* Git per Android. Android presenta limitazioni nell’uso di Git. Una soluzione è [Termux](https://termux.dev/en/), ma non è GUI. [MGit](https://f-droid.org/en/packages/com.manichord.mgit/), invece, lo è.
 
-- In the left sidebar, click **Developer settings**.
-- In the left sidebar, under **Personal access tokens**...
+MGit, per funzionare, necessita che sia impostato un ***personal access token (classic)*** su GitHub. Per crearne uno:
 
-Impostare la scadenza. Copiarlo subito una volta creato, non verrà più mostrato.
+- Cliccare su <kbd>Developer settings</kbd>, nella barra laterale sinistra.
+- Cliccare su <kbd>Personal access tokens</kbd>, nella barra laterale sinistra.
 
-Su Mgit, fare per clonare un repository: dirà errore: authentication is required but no credentialsprovider has been registered.
+Impostarne **nome** e **scadenza**, quindi copiarlo subito, in quanto non verrà più mostrato.
 
-Dare OK, verrà mostrato il popup per mettere username e password. Come username mettere l'indirizzo email dell'account github, come password, invece, il personal access token appena creato.
-Mgit clona il repository nella cartella in: /Android/data/com.manichord.mgit/files/repo.
+Su MGit, clonare un *repository*. Il processo mostrerà un errore: *Authentication is required but no CredentialsProvider has been registered*. Dare l’OK e verrà così mostrato un *popup* per impostare *username* e *password*:
 
-A quanto sembra, su MGit il fetch su un repository non capisco che effetto abbia, non si vede nulla, ma fare il pull mostra che funziona.
+- Come *username*, mettere l’indirizzo *e-mail* dell’*account* GitHub.
+- Come *password*, mettere il *personal access token* appena creato.
 
-Combinare tutto in uno su terminale MacOS (dopo il primo commit, che presumibilmente avrà un messaggio diverso, specifcio, di inizio), e magari metterci anche il `cd` iniziale al repository:
+MGit clona i *repository* come sottocartelle della cartella `/Android/data/com.manichord.mgit/files/repo`.
+
+A quanto sembra, su MGit, il *fetch* non ha effetto, non si vede nulla; fare il *pull*, però, mostra che vengono scaricate correttamente le modifiche.
+
+Come *shortcut*, combinare tutti i comandi in uno (dopo il primo *commit*, che presumibilmente avrà un messaggio diverso, specifico, di inizio). Ad esempio, su MacOS:
 
 ```
-git add . && git commit -a -S -m "Edits." && git push -u origin Trunk
+cd /Users/francoscarpa/Desktop/SecondBrain && git add . && git commit -a -S -m "Edits." && git pull && git push -u origin Trunk
 ```
+
+Sostituire `&&` con il comando di concatenazione appropriato per la piattaforma in uso.
