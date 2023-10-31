@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Creare un Nuovo Repository da Hostare su GitHub.md",
+                "file": "Git/MGit.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Creare un Nuovo Repository da Hostare su GitHub.md",
+                "file": "Git/MGit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Creare un Nuovo Repository da Hostare su GitHub.md",
+                "file": "Git/MGit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Creare un Nuovo Repository da Hostare su GitHub.md"
+                "file": "Git/MGit.md"
               }
             }
           }
@@ -159,9 +159,9 @@
   },
   "active": "c2cfcfd9d9230f15",
   "lastOpenFiles": [
+    "Home.md",
     "Git/Relazione con GNU Privacy Guard (GPG).md",
     "Git/Creare un Nuovo Repository da Hostare su GitHub.md",
-    "Home.md",
     "Informatica/Scorciatoie Caratteri.md",
     "Informatica/ASP.NET.canvas",
     "Informatica/Appunti di Sviluppo Software.md",
