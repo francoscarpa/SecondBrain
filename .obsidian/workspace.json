@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/MGit.md",
+                "file": "Git/Annullare Ultimo Commit (rimettere in unstaged).md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/MGit.md",
+                "file": "Git/Annullare Ultimo Commit (rimettere in unstaged).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/MGit.md",
+                "file": "Git/Annullare Ultimo Commit (rimettere in unstaged).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/MGit.md"
+                "file": "Git/Annullare Ultimo Commit (rimettere in unstaged).md"
               }
             }
           }
@@ -159,6 +159,8 @@
   },
   "active": "c2cfcfd9d9230f15",
   "lastOpenFiles": [
+    "Git/MGit.md",
+    "Git/Annullare Ultimo Commit (rimettere in unstaged).md",
     "Home.md",
     "Git/Relazione con GNU Privacy Guard (GPG).md",
     "Git/Creare un Nuovo Repository da Hostare su GitHub.md",
@@ -193,8 +195,6 @@
     "Sviluppo Software e Computer/Generali/Appunti.md",
     "IIS/Appunti.md",
     "Allegati",
-    "Untitled.md",
-    "Da seguire/Software.md",
     "Lavoro/Venicecom/KronosApp/Query/r4waj1rl.rdp~",
     "Allegati/Pasted image 20230809161213.png",
     "Allegati/Pasted image 20230809111000.png",
