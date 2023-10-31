@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Annullare Ultimo Commit (rimettere in unstaged).md",
-                "mode": "preview",
+                "file": "Git/MGit.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Annullare Ultimo Commit (rimettere in unstaged).md",
+                "file": "Git/MGit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Annullare Ultimo Commit (rimettere in unstaged).md",
+                "file": "Git/MGit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Annullare Ultimo Commit (rimettere in unstaged).md"
+                "file": "Git/MGit.md"
               }
             }
           }
@@ -159,8 +159,8 @@
   },
   "active": "c2cfcfd9d9230f15",
   "lastOpenFiles": [
-    "Git/MGit.md",
     "Git/Annullare Ultimo Commit (rimettere in unstaged).md",
+    "Git/MGit.md",
     "Home.md",
     "Git/Relazione con GNU Privacy Guard (GPG).md",
     "Git/Creare un Nuovo Repository da Hostare su GitHub.md",
