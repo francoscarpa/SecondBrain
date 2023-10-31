@@ -1,0 +1,2 @@
+- Canovacci neri
+- Bicchieri senza decorazioni

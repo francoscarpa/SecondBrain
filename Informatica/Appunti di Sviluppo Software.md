@@ -1,0 +1,34 @@
+- Decidere l’infrastruttura *hardware*. Cloud? Se sì, quale? Locale? Ibrido?
+- CI-CD.
+- Decidere l’infrastruttura *software*: Web *application*? Applicazione nativa? Se sì, *mobile*, *desktop*, o altro?
+- ***Logging***.
+- Uso degli **ambienti** di *test*, che devono andare di pari passo con quelli di produzione.
+- **Valutare** attentamente le modifiche che si vogliono fare, perché potrebbero compremettere il codice esistente.
+- Chiesta una modifica, valutare la strada più **semplice** (ossia quella meno “distruttiva”) come prima opzione. Il caso migliore sarebbe non toccare il codice, onde evitare di dover (in caso) fare un *deploy* della nuova versione. Da qui emerge l’importanza dell’uso della configurazione e dell'uso si view, stored procedures, etc.
+- **Configurazione**.
+- ***Performance***.
+- **Commenti**.
+- **Ottimizzazione** VS **leggibilità**.
+- L'ottimizzazione viene **dopo**: prima, assicurarsi di avere logica funzionante, poi si può passare a fare ottimizzazione.
+- **Versionamento** del codice e politica dei ***branch***:  il *branch* `master` deve contenere la **versione di produzione**. Ogni modifica va fatta su un *branch* apposito che parte dal `master`. Alla fine dello sviluppo e dei *test*, quando ci si aggince a mettere l’applicazione in produzione, fare il *merge* del *branch* nel `master`.
+- **CI+CD**.
+- Versionare in qualche modo anche gli *script* di aggiornamento del *database*.
+- https://www.reddit.com/r/ItalyInformatica/comments/103t90d/gestire_codice_sorgente_in_un_team_di/
+- Imparare a programmare in .NET senza Visual Studio, solo con basilare *editor* di testo.
+- Pensare subito al discorso lingue e che approccio usare.
+- Dare *feedback* grafico di attesa all’utente, per mostrargli che sta accandendo qualcosa e che deve attendere.
+- Prevedere la possibilità che un utente interferisca con un’operazione che ha avviato, magari cliccando due volte su un pulsante. Gestire disabilitazione o un intero foglio grigio sopra che inibisca tale possibilità.
+- Regolamentare il rilascio sul sistema di versionamento: prima di ogni *push*, fare una *fetch* e un *pull*.
+- Quando si fa un *pull* in Git, controllare se le stringhe di connessione sono cambiate per qualche motivo.
+- Git: fare sempre un commit prima di fare il pull, sennò Git può sovrascrivere i local changes non ancora messi in staged o committati. Quando si fa così, quindi c'è roba da scaricare e roba che poi si vuole pushare, git crei tipo 2 commit automaticamente, quello scaricato e uno di merge, vuoto, che dice solo che è stato fatto il merge dei due commit. Git non controlla i local changes che non sono stati committati o che non sono stati nemmeno messi in staged. Se una modifica è solo una local changes messa lì, un push può rovinare ciò che abbiamo scritto sovrascinendone parti. Da ChatGPT: Quando si esegue una pull in Git, il sistema cerca di incorporare i cambiamenti presenti sul repository remoto nel proprio repository locale. Se ci sono dei cambiamenti locali che non sono stati ancora registrati (cioè, di cui non è stato eseguito il commit) e che confliggono con i cambiamenti in arrivo dal repository remoto, Git li sovrascriverà per evitare problemi di conflitto. Ciò significa che i cambiamenti locali non registrati andranno persi. Per evitare questo problema, è importante eseguire il commit dei propri cambiamenti locali prima di eseguire una pull.
+- Gestire gli script di aggiornamento db: come si aggiorna da una versione di un db alla successiva? Si fanno i diff a mano (male!!!)? Altro?
+- Delegare computazione al database, con stored procedure, viste, etc. Vale la pena?
+- Entity Framework: da una situazione pulita, aggiornato il model EDMX dal db per qualsiasi cosa, fare una build e committare subito i file che sono stati automaticamente modificati/generati.
+- Commentare codice: pensare sempre ai posteri.
+- Collegarsi al db di prod mentre si è in debug per debuggare
+- Se devo fare cose nuove, pensare ad aggiugere anziché modificare o togliere: esempio, metodo invio mail di tourweb solo per noi del team.
+- GUI: errore divino grigio, di base, per catchare tutto il possibile.
+- Formattare le **date** in `yyyyMMdd`, così da “abilitare” l’ordinamento. Questo funziona perché gli anni non sono **ciclici**, mentre mesi e giorni sì.
+- Prevedere il comportamento in caso di problemi di rete
+- Pensare all'ambiente dove si deployerà: da là è èpossibile uscire in internet? limitazioni? soluzioni?
+- Occhio a fare i *merge* dei branch. Se l'applicativo usa EF, un branch punta a un db e l'altr0 branch a un altro db, mergare incasinerà le cose, perché i db possono essere stati diversificati e, con loro, i modeli edmx di EF, quindi mergare scassa tutto perché io mi trovo un edmx che usa, dopo il merge, colonne, tabelle etc. che il db a cui sto davveropuntando non ha!

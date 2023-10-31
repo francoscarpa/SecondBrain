@@ -1,0 +1,23 @@
+- Architettura e Servizi
+	- Identità, Gestione degli Accessi e Sicurezza
+		- [[Conditional Access]]
+		- [[Defense-in-Depth]]
+		- [[Azure RBAC (Role-Based Access Control)]]
+		- [[Zero Trust Model]]
+		- [[Defender for Cloud]]
+- Gestione e Governance
+	- Gestione dei Costi
+		- [[Fattori Che Influenzano i Costi]]
+		- [[Calcolatori di “Pricing” e “Total Cost of Ownership (TCO)”]]
+		- [[Azure Cost Management]]
+		- [[Tag]]
+	- Governance e Conformità
+		- [[Azure Blueprints]]
+		- [[Azure Policy]]
+		- [[Resource Lock]]
+		- [[Service Trust Portal]]
+	- Gestione e Distribuzione delle Risorse
+		- [[Interagire con Azure]]
+		- [[Azure Arc]]
+		- [[Azure Resource Manager (ARM) e ARM Template]]
+	- Strumenti di Monitoraggio

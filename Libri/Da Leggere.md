@@ -1,0 +1,4 @@
+- [Chokepoint Capitalism](https://chokepointcapitalism.com/).
+- [Domino](https://www.rivistadomino.it/).
+- [Indro Montanelli - Storia di Roma](https://www.ibs.it/storia-di-roma-libro-indro-montanelli/e/9788817050197).
+- Indro Montanelli - Storia d’Italia.

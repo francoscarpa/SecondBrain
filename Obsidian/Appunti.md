@@ -1,0 +1,1 @@
+Per rendere effettivi i *plugin*, bisogna probabilmente riavviare. Infatti, dopo che ho installato, ad esempio, il *plugin* per la *homepage*, non veniva fatto il reindirizzamento alla prima apertura. Alla seconda, invece, sì.

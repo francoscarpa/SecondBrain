@@ -1,0 +1,1 @@
+Azure Resource Manager (ARM) è il servizio con cui Azure consente di gestire [[Azure Resource]], ossia di crearle, dislocarle, aggiornarle e cancellarle. Ogni volta che queste vengono “toccate”, interviene Azure Resource Manager (ARM). 

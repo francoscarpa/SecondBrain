@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"type":"group","id":"487b7a2ac5be29b2","x":-703,"y":-460,"width":830,"height":600,"color":"6","label":"Sviluppo Cross-Platform"},
+		{"type":"group","id":"66662fcbb16724f3","x":153,"y":-460,"width":320,"height":480,"color":"3","label":"Self-Host"},
+		{"type":"group","id":"f1c0e0884d3a1a10","x":-36,"y":-732,"width":1004,"height":116,"label":"Core"},
+		{"type":"group","id":"4975415886520347","x":498,"y":-460,"width":290,"height":280,"color":"5","label":"Cloud"},
+		{"type":"text","text":"Computer Networking","id":"67668a57c224cd42","x":254,"y":-664,"width":250,"height":28,"color":"#000000"},
+		{"type":"text","text":"C#","id":"f12c5d0f1a3dd50a","x":-16,"y":-712,"width":250,"height":28,"color":"#000000"},
+		{"type":"text","text":".NET","id":"5989fdb7bef4e963","x":-16,"y":-664,"width":250,"height":28,"color":"#000000"},
+		{"type":"text","text":"Hardware","id":"f5098e7069443987","x":254,"y":-712,"width":250,"height":28,"color":"#000000"},
+		{"type":"text","text":"Blazor","id":"f87eb177f98e9c07","x":-683,"y":-80,"width":250,"height":28},
+		{"type":"text","text":"Blazor Hybrid","id":"22324b588155fd20","x":-423,"y":60,"width":250,"height":28},
+		{"type":"text","text":"Database","id":"9d6ca6234e336a38","x":521,"y":-712,"width":250,"height":28,"color":"#000000"},
+		{"type":"text","text":"MAUI","id":"c94c207270746a23","x":-143,"y":-80,"width":250,"height":28},
+		{"type":"text","text":"Self-host","id":"b8a6df0c96737d7d","x":193,"y":-260,"width":250,"height":28},
+		{"type":"text","text":"Pi-hole\nWeb *hosting*\n*Bookmark*\n…","id":"658fb5681de4861c","x":193,"y":-120,"width":250,"height":110},
+		{"type":"text","text":"Cloud","id":"01ec4369bca500d1","x":518,"y":-440,"width":250,"height":28,"color":"5"},
+		{"type":"text","text":"Azure","id":"d33d5352b6fbe86d","x":518,"y":-260,"width":250,"height":28},
+		{"type":"file","file":"Informatica/ASP.NET.canvas","id":"538cc7aff32ecd89","x":-681,"y":-420,"width":273,"height":211}
+	],
+	"edges":[
+		{"id":"9acae802cab7f713","fromNode":"c94c207270746a23","fromSide":"bottom","toNode":"22324b588155fd20","toSide":"right"},
+		{"id":"c9ea0d4dc82a7af4","fromNode":"f87eb177f98e9c07","fromSide":"bottom","toNode":"22324b588155fd20","toSide":"left"},
+		{"id":"58c091a2baa56025","fromNode":"01ec4369bca500d1","fromSide":"bottom","toNode":"d33d5352b6fbe86d","toSide":"top"},
+		{"id":"6dca1d3af7e9c9e0","fromNode":"b8a6df0c96737d7d","fromSide":"bottom","toNode":"658fb5681de4861c","toSide":"top"},
+		{"id":"0bc62a9d07476ddb","fromNode":"f1c0e0884d3a1a10","fromSide":"bottom","toNode":"66662fcbb16724f3","toSide":"top"},
+		{"id":"7309f4dc7f258f0d","fromNode":"f1c0e0884d3a1a10","fromSide":"bottom","toNode":"4975415886520347","toSide":"top"},
+		{"id":"1c44d41a4bd7d2c8","fromNode":"f1c0e0884d3a1a10","fromSide":"bottom","toNode":"487b7a2ac5be29b2","toSide":"top"},
+		{"id":"143869f6d5554656","fromNode":"538cc7aff32ecd89","fromSide":"bottom","toNode":"f87eb177f98e9c07","toSide":"top"}
+	]
+}

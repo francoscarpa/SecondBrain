@@ -1,0 +1,39 @@
+- Obsidian
+- GitHub
+- NET
+	- Lavorare senza Visual Studio.
+	- ASP.NET.
+	- Blazor.
+	- MAUI.
+	- Entity Framework.
+- C\#
+- Cloud
+	- OpenAI.
+	- Microservizi.
+- Container
+	- Docker.
+	- Kubernetes.
+- Version Control
+	- Git.
+		- GitFlow.
+		- [Trunk-Based Development](https://trunkbaseddevelopment.com/).
+- Database
+	- [Dapper](https://www.learndapper.com/).
+- Computer Networking
+	- IIS.
+	- Pi-hole.
+- Documentazione
+	- Markdown.
+	- AsciiDoc.
+	- [Mermaid](https://mermaid.js.org/).
+- Static Site Generators
+	- [Eleventy](https://www.11ty.dev/).
+		- [Eleventy v2.0.0](https://www.11ty.dev/blog/eleventy-v2/).
+- GNU Linux
+	- [Linux Professional Institute](https://www.lpi.org/).
+- Benessere al Computer
+	- Seduto/in piedi.
+	- Pellicola anti luce blu.
+- Corsi
+	- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support).
+	- [Linux Professional Institute](https://www.lpi.org/).

@@ -1,0 +1,4 @@
+La seguente procedura spiega come rinominare un  _repository_ Git in locale e la controparte (*origin*)  su GitHub:
+1. Rinominare il *repository* su GitHub andando nelle impostazioni del *repository*. Questa operazione farà cambiare automaticamente l’URL del *repository*.
+2. Rinominare il *repository* in locale, ossia la cartella fisica. Questa operazione non dovrebbe essere necessaria, in quanto ciò che è importante è la *origin* che è specificata nel *repository* in locale. Però, per ordine, è meglio mantenere i nomi dei *repository* uguali.
+3. Nel *repository* in locale, impostare la nuova *origin*, in quanto quella precedente punta al vecchio URL. Basta eseguire il comando `git remote set-url origin [Nuovo URL]`. Questo presuppone, però, che il riferimento che era stato impostato prima fosse proprio `origin`. Da quello che mi sembra di capire, *origin* non è l’unica scelta possibile.

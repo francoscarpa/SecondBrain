@@ -1,0 +1,3 @@
+- Spegnere il *download* automatico dei *media* da WhatsApp, Telegram, etc.
+- Installare un nuovo *file manager* (ad esempio, [ASTRO File Manager](https://www.astrofilemanagerapp.com/)), perché non mi ci trovo con **Files by Google** e **Google Photos**. Non cancellarli, però, perché potrebbero compromettere il sistema (anche se ho già sperimentato la cancellazione di *carrier*/OEM *bloatware* mediante ADB): **Google Photos**, ad esempio, gestisce la sincronizzazione Cloud delle foto, che voglio.
+- In Telegram, impostare la cancellazione automatica della *cache*, cosa che non sembra essere presente in WhatsApp.

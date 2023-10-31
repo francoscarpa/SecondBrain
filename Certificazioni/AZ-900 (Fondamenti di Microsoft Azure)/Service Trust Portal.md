@@ -1,0 +1,1 @@
+[Service Trust Portal](https://servicetrust.microsoft.com/) è un sito Web di Microsoft da cui poter attingere a documenti e informazioni riguardanti le pratiche di sicurezza e di *privacy* di Microsoft.

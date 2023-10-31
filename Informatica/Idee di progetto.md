@@ -1,0 +1,10 @@
+- Applicazione che rileva lo stato sentimentale di una persona mediante il riconoscimento facciale e che consiglia “rimedi”: video su YouTube, articoli, etc. in base allo stato d’animo rilevato.
+- Una sorta di *social newtork* per far comunicare **residenti e turisti**. L’idea sarebbe quella di contattare e usare direttamente un nativo di un posto, per essere aiutati a imbastire con lui un itinerario.
+    - Profilo per capire con chi si sta parlando, le “credenziali” e la “reputazione”.
+    - Mappa interattiva con *pin* e altro.
+    - Chat.
+- Una Web *app* per un *editor* (o semplice visualizzatore) **PDF**, sempre a portata di mano e sincronizzato.
+- ~~Un *plugin* per *browser* per le **traduzioni**. L’idea alla base è che doppio *click* su una singola parola apre WordReference, mentre la selezione di frase fa aprire Google Translate.~~ Ho sviluppato **Lingo**.
+- Reddit, ma con audio anziché *post*.
+- Mappa greca con Blazor.
+- Sito di animazioni tecniche, per aiutare nell’apprendimento.

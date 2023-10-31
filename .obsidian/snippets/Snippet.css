@@ -1,0 +1,31 @@
+:root {
+  /* --heading-font-family: Verdana; */
+  /* --body-font-family: Georgia; */
+}
+
+body {
+  --h1-font: var(--heading-font-family);
+  --h2-font: var(--heading-font-family);
+  --h3-font: var(--heading-font-family);
+  --h4-font: var(--heading-font-family);
+  --h5-font: var(--heading-font-family);
+  --h6-font: var(--heading-font-family);
+  --font-text: var(--body-font-family);
+  --code-background: rgb(232, 232, 232);
+  --code-normal: #000000;
+  --link-decoration: none;
+  --link-external-decoration: none;
+}
+
+div.mermaid {
+  text-align: center;
+}
+
+kbd {
+  background: #ddd;
+  border: 1px solid #aaa;
+}
+
+img {
+  border: 1px solid #000;
+}
