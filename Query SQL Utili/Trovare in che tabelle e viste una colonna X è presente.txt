@@ -1,5 +1,0 @@
-SELECT O.name as [Table], C.name as [Column], O.type_desc as [Type]
-FROM sys.columns C
-INNER JOIN sys.objects O ON c.object_id = O.object_id
-WHERE C.name LIKE '%attachment%'
-ORDER BY O.name, C.name

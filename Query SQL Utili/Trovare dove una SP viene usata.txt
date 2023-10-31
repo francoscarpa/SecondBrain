@@ -1,4 +1,0 @@
-SELECT O.name
-FROM syscomments AS C
-INNER JOIN sysobjects AS O ON C.id = O.id
-WHERE C.text LIKE '%X%'
