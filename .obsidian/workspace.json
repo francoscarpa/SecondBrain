@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "21249dd5abc7dd8c",
+        "id": "0973fee7397bcbf4",
         "type": "tabs",
         "children": [
           {
-            "id": "d58a6c8044a60858",
+            "id": "2ce40f1548e6a250",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Temporanee.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Temporanee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Temporanee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Temporanee.md"
+              }
             }
           }
         ],
@@ -149,13 +157,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a9d8120c00655c49",
+  "active": "2ce40f1548e6a250",
   "lastOpenFiles": [
+    "Informatica/Sommario Argomenti.md",
+    "Informatica/Scorciatoie Caratteri.md",
+    "Informatica/Roadmap.md",
+    "Informatica/Idee di progetto.md",
+    "Informatica/Core.canvas",
+    "Informatica/ASP.NET.canvas",
+    "Untitled.canvas",
+    "Certificazioni/CISCO vs CompTIA.md",
+    "Temporanee.md",
     "SQL/Trovare FK in tutto il database.md",
     "SQL/Cercare una stringa su tutte le tabelle.md",
     "Casa/Appunti.md",
     "SQL",
-    "Temporanee.md",
     "Home.md",
     "IIS/Appunti.md",
     "Git/Ignorare un file monitorato da Git.md",
@@ -165,18 +181,11 @@
     "Git/MGit.md",
     "Git/Annullare l’ultimo commit ancora in locale.md",
     "Lista della Spesa.md",
-    "Certificazioni/CISCO vs CompTIA.md",
     "Allegati/Azure RBAC.png",
     "Allegati/Pasted image 20230228150754.png",
-    "Informatica/Scorciatoie Caratteri.md",
-    "Informatica/ASP.NET.canvas",
     "Informatica/Appunti di Sviluppo Software.md",
-    "Informatica/Core.canvas",
-    "Informatica/Roadmap.md",
-    "Informatica/Idee di progetto.md",
     "Allegati/ASP.NET Core in Action - Second Edition.pdf",
     "Allegati/ASP.NET Core in Action - Third Edition.pdf",
-    "Informatica/Sommario Argomenti.md",
     "Sito personale/Font.md",
     "Sito personale",
     "Casa",
@@ -186,7 +195,6 @@
     "Fondamenti di Sviluppo Software.md",
     "Visual Studio/Suggerimenti.md",
     "Visual Studio/EditorConfig.md",
-    "Web API/Minimal API.md",
     "Allegati/Obsidian homepage hero image.jpg",
     "Allegati",
     "Lavoro/Venicecom/KronosApp/Query/r4waj1rl.rdp~",
