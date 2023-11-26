@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0973fee7397bcbf4",
+        "id": "33ed0ba7640399b8",
         "type": "tabs",
         "children": [
           {
-            "id": "2ce40f1548e6a250",
+            "id": "6237d9b79fc584a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temporanee.md",
+                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Geography.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temporanee.md",
+                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Geography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temporanee.md",
+                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Geography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temporanee.md"
+                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Geography.md"
               }
             }
           }
@@ -157,8 +157,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2ce40f1548e6a250",
+  "active": "6237d9b79fc584a7",
   "lastOpenFiles": [
+    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Region.md",
+    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Availability Zone.md",
+    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Paired Regions.md",
+    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Geography.md",
+    "Temporanee.md",
     "Informatica/Sommario Argomenti.md",
     "Informatica/Scorciatoie Caratteri.md",
     "Informatica/Roadmap.md",
@@ -167,7 +172,6 @@
     "Informatica/ASP.NET.canvas",
     "Untitled.canvas",
     "Certificazioni/CISCO vs CompTIA.md",
-    "Temporanee.md",
     "SQL/Trovare FK in tutto il database.md",
     "SQL/Cercare una stringa su tutte le tabelle.md",
     "Casa/Appunti.md",
@@ -192,9 +196,6 @@
     "Informatica",
     "Android/Imbastire un Nuovo Device.md",
     "Android/Cambiare Modalità USB Predefinita.md",
-    "Fondamenti di Sviluppo Software.md",
-    "Visual Studio/Suggerimenti.md",
-    "Visual Studio/EditorConfig.md",
     "Allegati/Obsidian homepage hero image.jpg",
     "Allegati",
     "Lavoro/Venicecom/KronosApp/Query/r4waj1rl.rdp~",

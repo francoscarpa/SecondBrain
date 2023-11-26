@@ -1,0 +1,1 @@
+Area geografica del mondo in cui risiedono uno o più *data center* fisici di Azure.

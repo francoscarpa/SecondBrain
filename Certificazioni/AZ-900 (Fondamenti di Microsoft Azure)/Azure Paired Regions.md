@@ -1,0 +1,1 @@
+Molte [[Azure Region]] ne hanno una ad essi accoppiata per supportare la replica *cross-region* in base alla prossimità e ad altri fattori.
