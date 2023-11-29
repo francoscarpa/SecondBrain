@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9e4f2f4b0b3be887",
+        "id": "9940ae3b7a74c8bd",
         "type": "tabs",
         "children": [
           {
-            "id": "ae6f4bdaf9e385cb",
+            "id": "4f8da9f1b4cf2fa1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Diagrams/AzureStructure.drawio.png"
+                "file": "Temporanee.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Diagrams/AzureStructure.drawio.png",
+                "file": "Temporanee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Diagrams/AzureStructure.drawio.png",
+                "file": "Temporanee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Diagrams/AzureStructure.drawio.png"
+                "file": "Temporanee.md"
               }
             }
           }
@@ -148,10 +150,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ae6f4bdaf9e385cb",
+  "active": "4f8da9f1b4cf2fa1",
   "lastOpenFiles": [
-    "Temporanee.md",
+    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Geography.md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Diagrams/AzureStructure.drawio.png",
+    "Temporanee.md",
     "Excalidraw/Drawing 2023-11-27 13.55.40.excalidraw.md",
     "Excalidraw",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Struttura di Azure.md",
@@ -161,7 +164,6 @@
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Excalidraw",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Single Sign-On (SSO).md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Indice.md",
-    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Geography.md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Region.md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Availability Zone.md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Paired Regions.md",
