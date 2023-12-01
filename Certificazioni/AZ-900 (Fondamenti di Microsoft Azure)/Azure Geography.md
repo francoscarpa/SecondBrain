@@ -4,26 +4,4 @@ Azure Geographies are areas of the world where Azure is available. Each Azure Ge
 Paired regions refer to the concept of having two Azure regions within the same geography that are paired for resiliency and redundancy. These pairs are chosen such that the data and services in one region can be replicated to the paired region for disaster recovery purposes.  
 Availability zones are physically separate datacenters within an Azure region. They are designed to provide fault tolerance and high availability by ensuring that services run in multiple zones, thereby protecting against individual datacenter failures. Each availability zone is typically housed in a different building, with independent power, cooling, and networking infrastructure.
 
-```mermaid
-graph TB
-    sq[Square shape] --> ci((Circle shape))
-
-    subgraph Azure management group
-        od>Odd shape]-- Two line<br/>edge comment --> ro
-        di{Diamond with <br/> line break} -.-> ro(Rounded<br>square<br>shape)
-        di==>ro2(Rounded square shape)
-    end
-
-    %% Notice that no text in shape are added here instead that is appended further down
-    e --> od3>Really long text with linebreak<br>in an Odd shape]
-
-    %% Comments after double percent signs
-    e((Inner / circle<br>and some odd <br>special characters)) --> f(,.?!+-*ز)
-
-    cyr[Cyrillic]-->cyr2((Circle shape Начало));
-
-     classDef green fill:#9f6,stroke:#333,stroke-width:2px;
-     classDef orange fill:#f96,stroke:#333,stroke-width:4px;
-     class sq,e green
-     class di orange
-```
+<iframe src="https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagramma%20senza%20titolo.drawio#R5VdNU9swEP01OcI4Fvk6koTCTEOBAi1X2drYAtlrZIkk%2FfWVbDmO4wQyU5gywyWW3q610tu3q7hDJsnyXNIsvkQGouN7bNkh047vd8nANw%2BLrEpkMBqWQCQ5c041cMv%2FgAM9h2rOIG84KkSheNYEQ0xTCFUDo1Liouk2R9GMmtEIWsBtSEUb%2Fc2Zikt02PNq%2FAJ4FFeRu56zJLRydkAeU4aLDYicdchEIqpylCwnICx5FS%2Fle9%2F2WNcbk5CqQ17IyOj5YR4NFXy%2FXNyxweL%2B8fHIrfJChXYH7vh9YdYbx8bUj%2BzoAijjaVQZTITaVoFZBcxQQmKjZrm2T4YCpT09VzYjCZjHpMxXbvIFSlurCZDxnIdFGA8Ed145sGINC3KdJ2inCpKsWJOnIWec6dQure2PoIGJb71VFRuKXEQptWEEf9b0eOMkWX2QIkdqVSVewbKgQSXCAF0zzJXEJ5gUByLTFFPjOZ5zIbagPKPFQci0V8%2FuMDPAkckRGS9iruDW4DbUwtSNwfAF5FwU%2Bog5Y5AaTKJOGdj0eesdbua7Sh5Is9kNyOX%2FHNDQLVfGxVlPhk6LrhgJcfNFLe3uyGHxpqwrEVNXTtF67VpxZuBEt1uAefQr%2BDE5eQgfrmMYXPy8ufHCI79FPDBTgG6KUsUYYUrFWY1u8VL7zLAg2ebqEZRauW5CtcJmJvdSmaOWIbxSL267isoI1Nt1Zc%2FyamIkCKr4S7PZ%2FAvJr%2B26UeXbrAthSraQb0wzC4YCNduj1kO4PFyWvteUpd%2FfIUt%2FhyyHH6XKbpufz6xKcqAq%2FU%2BlStJS5WmobGPfor4SpE5E6UDGVlvcXNIzGoC4RnO5cDQdcxqgUphsOJwKHlmDwi3ZolaCp6abV38b3qnF%2BqSp5ZNRW8tkh5T7HyXlNst7CQ51AG8XfFDqfBasARo%2BRYX6r0pSHc6ofLqyt5%2ByXHjHXq8J%2BgX6Tj2k29u62rw27%2F0dvJOP4r33NXlf9%2BT%2FxXv%2Fi%2FK%2B4858J97NtP5KKWwb33rk7C8%3D"></iframe>

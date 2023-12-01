@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9940ae3b7a74c8bd",
+        "id": "cace6e565efb3357",
         "type": "tabs",
         "children": [
           {
-            "id": "4f8da9f1b4cf2fa1",
+            "id": "c102da2a28994970",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temporanee.md",
+                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Geography.md",
                 "mode": "preview",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temporanee.md",
+                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Geography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temporanee.md",
+                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Geography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temporanee.md"
+                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Geography.md"
               }
             }
           }
@@ -150,11 +150,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4f8da9f1b4cf2fa1",
+  "active": "c102da2a28994970",
   "lastOpenFiles": [
+    "Temporanee.md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Geography.md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Diagrams/AzureStructure.drawio.png",
-    "Temporanee.md",
     "Excalidraw/Drawing 2023-11-27 13.55.40.excalidraw.md",
     "Excalidraw",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Struttura di Azure.md",
