@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cace6e565efb3357",
+        "id": "821642708c2ec4c5",
         "type": "tabs",
         "children": [
           {
-            "id": "c102da2a28994970",
+            "id": "8804164fb7d3ae1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Geography.md",
+                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Management Group.md",
                 "mode": "preview",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Geography.md",
+                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Management Group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Geography.md",
+                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Management Group.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Geography.md"
+                "file": "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Management Group.md"
               }
             }
           }
@@ -150,10 +150,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c102da2a28994970",
+  "active": "8804164fb7d3ae1c",
   "lastOpenFiles": [
-    "Temporanee.md",
+    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Total Cost of Ownership (TCO).md",
+    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Virtual Machine.md",
+    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Zero Trust Model.md",
+    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Multi-factor authentication (MFA).md",
+    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Indice.md",
+    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Continuous Integration (CI).md",
+    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Cost alerts.md",
+    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Conditional Access.md",
+    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/command-lets.md",
+    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/ARM template.md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Geography.md",
+    "Temporanee.md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Diagrams/AzureStructure.drawio.png",
     "Excalidraw/Drawing 2023-11-27 13.55.40.excalidraw.md",
     "Excalidraw",
@@ -163,7 +173,6 @@
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Excalidraw/Drawing 2023-11-27 13.32.50.excalidraw.md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Excalidraw",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Single Sign-On (SSO).md",
-    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Indice.md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Region.md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Availability Zone.md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Paired Regions.md",
@@ -177,15 +186,7 @@
     "Certificazioni/CISCO vs CompTIA.md",
     "SQL/Trovare FK in tutto il database.md",
     "SQL/Cercare una stringa su tutte le tabelle.md",
-    "Casa/Appunti.md",
     "SQL",
-    "Home.md",
-    "IIS/Appunti.md",
-    "Git/Ignorare un file monitorato da Git.md",
-    "Git/Rinominare un repository.md",
-    "Git/Relazione con GNU Privacy Guard (GPG).md",
-    "Git/Creare un nuovo repository da hostare su GitHub.md",
-    "Git/MGit.md",
     "Allegati/Azure RBAC.png",
     "Allegati/Pasted image 20230228150754.png",
     "Allegati/ASP.NET Core in Action - Second Edition.pdf",
