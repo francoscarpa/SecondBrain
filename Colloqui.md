@@ -1,0 +1,3 @@
+- Barbara Piovan prima/Laura Buffa poi: [Esselink Srl](https://www.esselink.it/), Spresiano, 2 gg *smart*. Riferito 38K RAL desiderata. Next call: Lunedì 18/02/2023 alle 18:00.
+- Giulia Sovran: Belluno, full remote, 2 posizioni, una facile, l'altra diffficile. Next call: mercoledì 20 dicembre 2023.
+- Elena Cassanello: Ulixie Group. Next call: 11 gennaio 2023.
