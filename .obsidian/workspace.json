@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d0b6e9b9b60a4edd",
+        "id": "d61bbac9a70cbe90",
         "type": "tabs",
         "children": [
           {
-            "id": "6f584162dbf10905",
+            "id": "7e3f9e24f0bb12a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personaggi/Untitled.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personaggi/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personaggi/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temporanee.md"
+                "file": "Personaggi/Untitled.md"
               }
             }
           }
@@ -144,8 +150,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "48745b0c3b56ac2c",
+  "active": "7e3f9e24f0bb12a0",
   "lastOpenFiles": [
+    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Management Group.md",
+    "Personaggi/Untitled.md",
+    "Personaggi",
+    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Geography.md",
     "Temporanee.md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Total Cost of Ownership (TCO).md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Virtual Machine.md",
@@ -157,7 +167,6 @@
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Conditional Access.md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/command-lets.md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/ARM template.md",
-    "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Geography.md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Diagrams/AzureStructure.drawio.png",
     "Excalidraw/Drawing 2023-11-27 13.55.40.excalidraw.md",
     "Excalidraw",
@@ -178,8 +187,6 @@
     "Informatica/ASP.NET.canvas",
     "Untitled.canvas",
     "Certificazioni/CISCO vs CompTIA.md",
-    "SQL/Trovare FK in tutto il database.md",
-    "SQL/Cercare una stringa su tutte le tabelle.md",
     "SQL",
     "Allegati/Azure RBAC.png",
     "Allegati/Pasted image 20230228150754.png",
@@ -190,7 +197,6 @@
     "Informatica",
     "Allegati/Obsidian homepage hero image.jpg",
     "Allegati",
-    "Lavoro/Venicecom/KronosApp/Query/r4waj1rl.rdp~",
     "Allegati/Pasted image 20230809161213.png",
     "Allegati/Pasted image 20230809111000.png",
     "Sviluppo Software/Allegati/Pasted image 20230228150754.png",
