@@ -1,9 +1,11 @@
 ## EsseLink Srl
-- Next call: Lunedì 18/02/2023 alle 18:00.
+- Next call: Giovedì 21/12/2023 alle 18:00.
 - https://www.esselink.it/it/index.asp.
 - Barbara Piovan prima/Laura Buffa poi sono le HR di riferimento (LinkedIn).
 - Spresiano, 2 gg *smart*.
 - Riferito 38K RAL desiderata.
+- 2 posizioni, full-stack (Spresiano) e back-end (Paese)
+- CCNL ?
 
 ## Dixell
 - Next: ci risentiamo la seconda settimana di Gennaio, o io o lei, che intanto propone la mia RAL da 39K.
@@ -15,11 +17,13 @@
 - Full remote, un giorno a settimana in sede (c’è il ragazzo di Pordenone).
 - Scartata la prima ipotesi, più complicata e difficile, viriamo su nuova posizione di software developer.
 - Ottima conoscenza inglese per team nel mondo.
+- CCNL?
 
 ## Ulixe Group S.r.l.
 - Next call: 11 gennaio 2023.
 - https://www.ulixe.com/.
 - Elena Cassanello è la HR di riferimento (LinkedIn)
+- CCNL ?
 
 ## Safety21
 - https://www.safety21.it/en/
