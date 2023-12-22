@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "285481e3f8a5a4c3",
+        "id": "db52e2700ae90b74",
         "type": "tabs",
         "children": [
           {
-            "id": "2e9bb930b4665c0c",
+            "id": "841b2097f55271ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colloqui.md",
+                "file": "Temporanee.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "95236af8412f1b37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retribuzione.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Colloqui.md",
+                "file": "Retribuzione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Colloqui.md",
+                "file": "Retribuzione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Colloqui.md"
+                "file": "Retribuzione.md"
               }
             }
           }
@@ -150,9 +163,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2e9bb930b4665c0c",
+  "active": "95236af8412f1b37",
   "lastOpenFiles": [
     "Temporanee.md",
+    "Retribuzione.md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Management Group.md",
     "Personaggi/Untitled.md",
     "Personaggi",
@@ -183,7 +197,6 @@
     "Informatica/Sommario Argomenti.md",
     "Informatica/Scorciatoie Caratteri.md",
     "Informatica/Roadmap.md",
-    "Informatica/Idee di progetto.md",
     "Informatica/Core.canvas",
     "Informatica/ASP.NET.canvas",
     "Untitled.canvas",
