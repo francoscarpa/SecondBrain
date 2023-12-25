@@ -248,5 +248,5 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/osx,node,macos,linux,windows,visualstudiocode
 
 # Franco Scarpa’s addition
-.obsidian/workspaces.json
+.obsidian/workspace.json
 .obsidian/workspace-mobile.json
