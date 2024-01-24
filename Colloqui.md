@@ -25,13 +25,10 @@
 - Elena Cassanello è la HR di riferimento (LinkedIn)
 - CCNL ?
 
-## Safety21
-- https://www.safety21.it/en/
-- Martina Castelli è la HR di riferimento (LinkedIn).
-- Seconda Strada Zona Industriale 16/18 – 35129 Padova.
-- Smart mobility, multe, bolli, etc.
-- Fullstack Microsoft.
-- 3 sede, 2 smart.
-- Informale, ristrutturazione aziendale, voglia di spaziare negli ambiti (!!!).
-- CCNL Metalmeccanico, 200 € annuale, 7 € buoni pasto per giono in sede, MetaSalute, Patto di stabilità e incentivo di 5000 €.
-- Bonus per performance aziendali 5% della RAL.
+## Kodis
+- Quella dei 45K di RAL.
+- https://www.koerber-technologies.com/en/products/digital è il sito dell'azienda.
+- Paese, 2 giorni smart alla settimana.
+- Trasferte per un totale di un mese all'anno.
+- Due recruiter: Laura Buffa e Barbara Piovan.
+- .NET, Docker, Kubernetes, Angular.
