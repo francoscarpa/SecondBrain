@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9f2d6b46bae76df3",
+        "id": "ba4debf35bd3d8cb",
         "type": "tabs",
         "children": [
           {
-            "id": "beeb840e7612c4cc",
+            "id": "e88600e3d4fcb0f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temporanee.md",
+                "file": "Colloqui.md",
                 "mode": "preview",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temporanee.md",
+                "file": "Colloqui.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temporanee.md",
+                "file": "Colloqui.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temporanee.md"
+                "file": "Colloqui.md"
               }
             }
           }
@@ -150,7 +150,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "beeb840e7612c4cc",
+  "active": "e88600e3d4fcb0f0",
   "lastOpenFiles": [
     "Temporanee.md",
     "Retribuzione.md",
