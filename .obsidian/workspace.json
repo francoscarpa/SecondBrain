@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colloqui.md",
+                "file": "Temporanee.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "b6d7ed4e724e66a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Colloqui.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,9 +163,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e88600e3d4fcb0f0",
+  "active": "b6d7ed4e724e66a9",
   "lastOpenFiles": [
     "Temporanee.md",
+    "Colloqui.md",
     "Retribuzione.md",
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Management Group.md",
     "Personaggi/Untitled.md",
@@ -183,7 +197,6 @@
     "Certificazioni/AZ-900 (Fondamenti di Microsoft Azure)/Azure Paired Regions.md",
     "Informatica/Sommario Argomenti.md",
     "Informatica/Scorciatoie Caratteri.md",
-    "Informatica/Roadmap.md",
     "Informatica/Core.canvas",
     "Informatica/ASP.NET.canvas",
     "Untitled.canvas",

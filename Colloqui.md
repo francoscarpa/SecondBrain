@@ -1,0 +1,3 @@
+- Ulixe: Elenca Cassanello, primo colloquio.
+- Alten (per cliente torinese, time & material): Currado e Longo, già fatto colloquio tecnico.
+- Targa Telematics: Giles Blackwell. Primo colloquio.
