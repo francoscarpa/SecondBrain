@@ -17,7 +17,7 @@
 - Full remote, un giorno a settimana in sede (c’è il ragazzo di Pordenone).
 - Scartata la prima ipotesi, più complicata e difficile, viriamo su nuova posizione di software developer.
 - Ottima conoscenza inglese per team nel mondo.
-- CCNL?
+- CCNL ?
 
 ## Ulixe Group S.r.l.
 - Next call: 11 gennaio 2023.
