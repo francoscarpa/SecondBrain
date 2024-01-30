@@ -1,4 +1,4 @@
 - Ulixe: Elenca Cassanello, secondo colloquio a voce.
 - Targa Telematics: Giles Blackwell, Sara Zardetto, colloquio tecnico in sede Venerdì 2 Febbraio 2024.
 - PAT S.R.L. Montebelluna: primo colloquio.
-- Michael Page: Loredana Provasi su LinkedIn, quindi suo collega.
+- Michael Page: Loredana Provasi su LinkedIn, quindi suo collega, colloquio lunedì 5 alle 16:00.
