@@ -1,3 +1,3 @@
-- Ulixe: Elenca Cassanello, primo colloquio.
-- Alten (per cliente torinese, time & material): Currado e Longo, già fatto colloquio tecnico.
-- Targa Telematics: Giles Blackwell. Primo colloquio.
+- Ulixe: Elenca Cassanello, secondo colloquio a voce.
+- Targa Telematics: Giles Blackwell, Sara Zardetto, colloquio tecnico in sede Venerdì 2 Febbraio 2024.
+- PAT S.R.L. Montebelluna: primo colloquio.
