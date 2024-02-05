@@ -1,2 +1,3 @@
 - Targa Telematics: Giles Blackwell, Sara Zardetto, colloquio tecnico in sede Venerdì 2 Febbraio 2024.
 - Michael Page: Loredana Provasi su LinkedIn, quindi suo collega (Marco Stoppa?), colloquio lunedì 5 alle 16:00.
+- Bianca Nemeth, LinkedIn
